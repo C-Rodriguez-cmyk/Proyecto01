@@ -7,3 +7,5 @@ Grupo 10-3 de aplicaciones moviles
 # Lenguaje de programacion 
 - kotlin
 - Mysql
+
+![Logo onepiece](imagenes/logo_onepiece.jpg)
