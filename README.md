@@ -9,3 +9,5 @@ Grupo 10-3 de aplicaciones moviles
 - Mysql
 
 ![Logo onepiece](imagenes/logo_onepiece.jpg)
+
+esta informacion se agrego desde la casa
