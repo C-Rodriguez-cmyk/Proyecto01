@@ -12,4 +12,4 @@ Grupo 10-3 de aplicaciones moviles
 
 esta informacion se agrego desde la casa
 
-esta información la agregue desde la casa 
+esta información la agregue desde la casa. 
