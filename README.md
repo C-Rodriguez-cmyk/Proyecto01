@@ -11,3 +11,5 @@ Grupo 10-3 de aplicaciones moviles
 ![Logo onepiece](imagenes/logo_onepiece.jpg)
 
 esta informacion se agrego desde la casa
+
+esta información la agregue desde la casa 
